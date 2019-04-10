@@ -1,0 +1,7 @@
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\bin\Debug\MoveGame.exe.config
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\bin\Debug\MoveGame.exe
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\bin\Debug\MoveGame.pdb
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.csprojAssemblyReference.cache
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.exe
+C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.pdb
