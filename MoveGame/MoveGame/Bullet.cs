@@ -13,8 +13,6 @@ namespace MoveGame
     {
         public int Xpos { get; set; }
         public int Ypos { get; set; }
-        private int MapWidth { get; }
-        private int MapHeight { get; }
 
         public Bullet(int playerX, int playerY)
         {

@@ -24,8 +24,8 @@ namespace MoveGame
             MapHeight = mapHeight;
             MapWidth = mapWidth;
             MapArr = new int[mapWidth,mapHeight];
-            this.LimitVal = limitVal;
-            this.BulletLimit = bulletLimit;
+            LimitVal = limitVal;
+            BulletLimit = bulletLimit;
         }
 
 

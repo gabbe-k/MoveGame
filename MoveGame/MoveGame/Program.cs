@@ -13,15 +13,12 @@ namespace MoveGame
     {
         static void Main(string[] args)
         {
-            
 
             Console.SetCursorPosition(1, 1);
 
             bool gameEnd = false;
-            Map map = new Map(15, 20, 1,  1);
+            Map map = new Map(20, 50, 1,  1);
             Player player = new Player(map);
-
-            ConsoleKey command = Console.ReadKey().Key;
 
             int tickCount = 0;
             int gameSpeed = 150;
@@ -30,8 +27,11 @@ namespace MoveGame
             DateTime timeBegin = DateTime.Now;
             map.PrintMap();
 
+            ConsoleKey command = new ConsoleKey();
+
             do
             {
+
                 if (Console.KeyAvailable) command = Console.ReadKey().Key;
 
                 //Collision detection
@@ -66,8 +66,8 @@ namespace MoveGame
                     tickCount = 0;
                     if (gameSpeed >= 40)
                     {
-                        gameSpeed -= 10;
-                        fakeSpeed += 25;
+                        gameSpeed -= 5;
+                        fakeSpeed += 10;
                     }
 
                     map.LimitVal += 5;

@@ -5,3 +5,10 @@ C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.csprojAs
 C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.csproj.CoreCompileInputs.cache
 C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.exe
 C:\Users\gabriel.kall\source\repos\MoveGame\MoveGame\obj\Debug\MoveGame.pdb
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\bin\Debug\MoveGame.exe.config
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\bin\Debug\MoveGame.exe
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\bin\Debug\MoveGame.pdb
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\obj\Debug\MoveGame.csprojAssemblyReference.cache
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\obj\Debug\MoveGame.csproj.CoreCompileInputs.cache
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\obj\Debug\MoveGame.exe
+C:\Users\gabbe\Documents\GitHub\MoveGame\MoveGame\MoveGame\obj\Debug\MoveGame.pdb
